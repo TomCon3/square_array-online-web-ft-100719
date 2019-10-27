@@ -3,3 +3,6 @@ def square_array(numbers)
     number ** 2 
   end
 end
+
+def square_array(new_numbers)
+  
