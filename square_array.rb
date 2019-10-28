@@ -4,8 +4,8 @@ def square_array(numbers)
   end
 end
 
-def square_array(new_numbers)
-  square_array.push(numbers)
+square_array(new_numbers)
+  
   
 
   
