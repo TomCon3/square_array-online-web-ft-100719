@@ -5,9 +5,8 @@ def square_array(numbers)
 end
 
 def square_array()
-  numbers.push(number)
+
 end
-  
 
 
 
