@@ -4,6 +4,7 @@ def square_array(numbers)
  while numbers.each do |number|
     new_array << number ** 2
   end
+end 
 end
 
 
